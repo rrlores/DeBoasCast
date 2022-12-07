@@ -827,56 +827,43 @@ section {
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #44d84e;
+  border-bottom: 3px solid #00bd60;
 }
 
-.services .service-box.blue .icon {
-  color: #44d84e;
-  background: #44d84e;
-}
 
 .services .service-box.blue .read-more {
-  color: #44d84e;
+  color: #00bd60;
 }
 
 .services .service-box.blue:hover {
-  background: #44d84e;
+  background: #000;
 }
 
 .services .service-box.orange {
-  border-bottom: 3px solid #181818;
+  border-bottom: 3px solid #931565;
 }
 
-.services .service-box.orange .icon {
-  color: #181818;
-  background: #181818;
-}
 
 .services .service-box.orange .read-more {
-  color: #181818;
+  color: #931565;
 }
 
 .services .service-box.orange:hover {
-  background: #181818;
+  background: #000;
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #fffeff;
+  border-bottom: 3px solid #ffbb4b;
 }
 
-.services .service-box.green .icon {
-  color: #08da4e;
-  background: #fffeff;
-}
 
 .services .service-box.green .read-more {
-  color: #fffeff;
+  color: #ffbb4b;
 }
 
 .services .service-box.green:hover {
-  background: #f8bb15;
+  background: #000;
 }
-
 
 
 .services .service-box:hover h3,
@@ -1416,7 +1403,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #012970;
+  color: #000;
 }
 
 .team .member .member-info span {
